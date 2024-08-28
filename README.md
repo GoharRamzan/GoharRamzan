@@ -1,3 +1,6 @@
+![logo](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/GOHAR BANNER.jdg)
+
+
 <h1 align="center">Hi 👋, I'm Gohar Ramzan</h1>
 <h3 align="center">Passionate and dedicated developer diving into the world of web development with the MERN stack</h3>
 
