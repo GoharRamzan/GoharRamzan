@@ -5,7 +5,7 @@
 <h3 align="center">Passionate and dedicated developer diving into the world of web development with the MERN stack</h3>
 
 
-
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
 - 🔭 I’m currently working for **Nubit Software Pvt Ltd.**
 
 - 🌱 I’m currently learning **React.js, Mongodb, Express.js, React Native, Node.js and Mern technologies**
