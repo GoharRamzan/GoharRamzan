@@ -1,4 +1,4 @@
-![logo](https://github.com/ubaidahmed04/ubaidahmed04/blob/main/GOHAR BANNER.jdg)
+![logo](https://github.com/GoharRamzan/GoharRamzan/blob/main/goharbanner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Gohar Ramzan</h1>
